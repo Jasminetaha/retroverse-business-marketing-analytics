@@ -27,11 +27,13 @@ The analysis was designed to answer:
 
 ## Dashboard
 
-[EXECUTIVE DASHBOARD SCREENSHOT]
+<img width="1432" height="810" alt="Screenshot 2026-09-16 at 1 15 51 AM" src="https://github.com/user-attachments/assets/f200102b-4337-4530-9d42-d6a32b9fac70" />
+<img width="1428" height="813" alt="Screenshot 2026-09-16 at 1 16 38 AM" src="https://github.com/user-attachments/assets/7633ed6f-a431-425a-8bb3-ff2e4671009a" />
+<img width="1432" height="807" alt="Screenshot 2026-09-16 at 1 16 17 AM" src="https://github.com/user-attachments/assets/0fa519d8-1643-475a-8dab-ce539207538e" />
+<img width="1439" height="809" alt="Screenshot 2026-09-16 at 1 15 19 AM" src="https://github.com/user-attachments/assets/1a991917-5253-4c79-9b63-3e0886fdcb9d" />
 
-[SALES / CUSTOMER SCREENSHOT]
 
-[MARKETING STRATEGY SCREENSHOT]
+
 
 ## Analytics Pipeline
 
@@ -77,7 +79,12 @@ including first-time Meta advertising.
 
 ## Key Findings
 
-[INSERT YOUR 3–5 STRONGEST SANITIZED RESULTS HERE]
+* Analyzed 3+ years of Shopify data, covering 179 unique orders, 162 customers, product performance, acquisition sources, and customer behavior.
+* RFM segmentation revealed meaningful differences in customer value and engagement, supporting targeted retention and repeat-purchase strategies rather than uniform marketing.
+* Retroverse had not historically run Meta Ads, so paid social was modeled as a new acquisition opportunity rather than using unsupported historical ROAS assumptions.
+* Developed conservative, expected, and optimistic marketing scenarios to evaluate how a 30,000 EGP budget could be deployed across acquisition, retargeting, and retention.
+* Built a baseline sales forecast so incremental marketing-driven growth could be distinguished from sales expected without additional advertising.
+* Identified important data-quality limitations—including duplicate order line items, cancelled/voided transactions, and incomplete historical product costs—and accounted for them before generating business recommendations.
 
 ## Power BI Dashboard
 
